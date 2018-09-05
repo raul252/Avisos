@@ -3,7 +3,7 @@ package com.videotutoriales.raul252.avisos;
 public class Aviso {
     private int mId;
 
-    public int getID() {
+    public int getId() {
         return mId;
     }
 
